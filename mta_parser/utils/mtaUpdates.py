@@ -1,7 +1,3 @@
-#Group 5555
-#Siao-Ting Wang(sw3092)
-#Yuval Schaal(ys3055)
-#Ido Michael(im2492)
 import urllib2,contextlib
 from datetime import datetime
 from collections import OrderedDict

@@ -1,14 +1,3 @@
-#**********************************************************************************************
-# * Copyright (C) 2015-2016 Sareena Abdul Razak sta2378@columbia.edu
-# *
-# * This file is part of New-York-MTA-Subway-Trip-Planner.
-# *
-# * New-York-MTA-Subway-Trip-Planner can not be copied and/or distributed without the express
-# * permission of Sareena Abdul Razak
-# * Edited by Peter Wei pw2428@columbia.edu, February 19, 2018
-# *********************************************************************************************
-# Usage python mta.py
-
 import json,time,csv,sys
 import re
 from threading import Thread
